@@ -1,0 +1,27 @@
+﻿# 编辑器文件
+/.vscode
+\SI
+/SI
+*.si4project
+*.IAB
+*.IAD
+*.IMB
+*.PFI
+*.PO
+*.PR
+*.PRI
+*.PS
+*.WK3
+*.SearchResults
+/build_temp/
+language.settings.xml
+sample/internal/sample_1122/firmware/Firmware_V200.bin
+sample/internal/sample_1122/firmware/user_code
+sample/internal/sample_1122/firmware/config.ini
+sample/internal/sample_1122/firmware/voice/voice.bin
+sample/internal/sample_1122/firmware/voice/flac
+sample/internal/sample_1122/firmware/voice/adpcm
+sample/internal/sample_1122/firmware/voice/flac
+sample/internal/sample_1122/firmware/voice/mp3
+*.bin
+

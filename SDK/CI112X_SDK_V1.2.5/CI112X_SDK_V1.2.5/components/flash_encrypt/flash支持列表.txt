@@ -1,0 +1,15 @@
+﻿经测试已确认支持的flash:
+
+华邦WINBOND
+兆易创新GIGADEVICE
+
+
+
+
+经测试已确认不支持的flash:
+
+复旦微FMSH 部分FM25Q64
+
+
+
+
